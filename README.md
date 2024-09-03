@@ -1,4 +1,4 @@
-I'm currently: 
+✨ I'm currently ✨: 
 - 🖥️ Developing android and desktop software at [Variatur](https://github.com/Variatur)
 - 🎮 Working on games at [Conglomerate Squad](https://github.com/Conglomerate-Squad).
 
